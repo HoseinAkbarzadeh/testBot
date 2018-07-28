@@ -3,7 +3,7 @@ import urllib.request
 import json
 
 BOTNAME = 'NewTestBot'
-BOTTOKEN = '358472103:AAEnWRwp4Atbu-0qU_cLXegvN15dc5wBAqE'
+BOTTOKEN = '##########################################'
 SERVER = 'https://api.telegram.org/bot'+BOTTOKEN+'/'
 objUpdate = ''
 
